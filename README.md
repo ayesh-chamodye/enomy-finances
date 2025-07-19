@@ -120,6 +120,7 @@ enomy-finances/
 ├── package.json
 ├── README.md
 └── ...
+
 -   `src/components`: Contains reusable React components used throughout the application, such as the `CurrencyConverter` and `InvestmentCalculator`.
 -   `src/pages`: Contains different pages or views of the application, like the `Home` and `About` pages.
 -   `src/App.tsx`: The main application component that ties everything together.
