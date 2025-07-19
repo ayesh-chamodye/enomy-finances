@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Enomy-Finances React App
+## Simple Currency conversion and investment calculator app made with react + Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
