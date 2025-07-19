@@ -94,32 +94,32 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Project File Structure
 
 
-enomy-finances/
-├── node_modules/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/          # Reusable React components
-│   │   ├── CurrencyConverter.tsx
-│   │   ├── InvestmentCalculator.tsx
-│   │   └── ...
-│   ├── pages/               # Different pages of the application
-│   │   ├── Home.tsx
-│   │   ├── About.tsx
-│   │   └── ...
-│   ├── App.tsx              # Main application component
-│   ├── index.tsx            # Entry point of the application
-│   ├── firebase.js          # Firebase configuration
-│   ├── styles/              # CSS or styling files
-│   │   ├── global.css
-│   │   └── ...
-│   ├── App.test.tsx         # Application tests
-│   └── ...
-├── .env                     # Environment variables
-├── package.json
-├── README.md
-└── ...
+    enomy-finances/
+    ├── node_modules/
+    ├── public/
+    │   ├── index.html
+    │   └── ...
+    ├── src/
+    │   ├── components/          # Reusable React components
+    │   │   ├── CurrencyConverter.tsx
+    │   │   ├── InvestmentCalculator.tsx
+    │   │   └── ...
+    │   ├── pages/               # Different pages of the application
+    │   │   ├── Home.tsx
+    │   │   ├── About.tsx
+    │   │   └── ...
+    │   ├── App.tsx              # Main application component
+    │   ├── index.tsx            # Entry point of the application
+    │   ├── firebase.js          # Firebase configuration
+    │   ├── styles/              # CSS or styling files
+    │   │   ├── global.css
+    │   │   └── ...
+    │   ├── App.test.tsx         # Application tests
+    │   └── ...
+    ├── .env                     # Environment variables
+    ├── package.json
+    ├── README.md
+    └── ...
 
 -   `src/components`: Contains reusable React components used throughout the application, such as the `CurrencyConverter` and `InvestmentCalculator`.
 -   `src/pages`: Contains different pages or views of the application, like the `Home` and `About` pages.
