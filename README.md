@@ -1,7 +1,11 @@
 # Enomy-Finances React App
 
+### Home page
 ![Enomy-Finances Screenshot 1](https://raw.githubusercontent.com/ayesh-chamodye/enomy-finances/refs/heads/master/preview/Home.png)
-![Enomy-Finances Screenshot 2](link-to-screenshot-2.png)
+### Curreny Converter page
+![Enomy-Finances Screenshot 2](https://raw.githubusercontent.com/ayesh-chamodye/enomy-finances/refs/heads/master/preview/Currency%20converter.png)
+### Investment Calculator
+![Enomy-Finances Screenshot 3](https://raw.githubusercontent.com/ayesh-chamodye/enomy-finances/refs/heads/master/preview/Investment%20calculator%20logged%20in.png)
 
 > Replace `link-to-screenshot-1.png` and `link-to-screenshot-2.png` with actual URLs or paths to your screenshots.
 
