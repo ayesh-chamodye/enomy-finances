@@ -13,6 +13,8 @@ import ProtectedRoute from './components/auth/ProtectedRoute';
 import Dashboard from './components/dashboard/Dashboard';
 import CurrencyConverter from './components/currency/CurrencyConverter';
 import SavingsCalculator from './components/calculator/SavingsCalculator';
+import Profile from './components/profile/Profile';
+import ProfileSettings from './components/profile/ProfileSettings';
 
 function App() {
   return (
@@ -32,7 +34,8 @@ function App() {
               {/* Protected Routes */}
               <Route element={<ProtectedRoute />}>
                 <Route path="/dashboard" element={<Dashboard />} />
-                <Route path="/profile" element={<Dashboard />} /> {/* Replace with Profile component when created */}
+                <Route path="/profile" element={<Profile />} />
+                <Route path="/profile/settings" element={<ProfileSettings />} />
               </Route>
               
               {/* Fallback Route */}
